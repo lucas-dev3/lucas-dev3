@@ -59,3 +59,5 @@
 [![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carvalho-b465071b3/)](https://www.linkedin.com/in/lucas-carvalho-b465071b3/)
 [![Gmail Badge](https://img.shields.io/badge/-lucassdeveloper@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassdeveloper@gmail.com)](mailto:lucassdeveloper@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lucas-dev3?label=follow&style=social)](https://github.com/lucas-dev3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ilucaas3)
+

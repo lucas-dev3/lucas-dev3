@@ -3,8 +3,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como **Desenvolvedor Fullstack** na <a href="LINK DA EMPRESA">Umbler</a>
-- 🌱 &nbsp; Aprendendo mais sobre **C# e Kotlin**.
+- 💼 Trabalhando como **Desenvolvedor Fullstack**
+- 🌱 &nbsp; Aprendendo mais sobre **GO lang**.
 
 <h3>Minhas Skills</h3>
 
@@ -23,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%20Sharp&logoColor=white)
+![GO](https://img.shields.io/badge/-C%23-239120?style=flat&logo=go&logoColor=white)
 
 
 **Utilidades**
